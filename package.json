@@ -1,0 +1,23 @@
+{
+  "name": "electron-test",
+  "version": "1.0.0",
+  "description": "Quick Electron Demo",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/k4iru/electron-test.git"
+  },
+  "author": "Kyle Cheung",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/k4iru/electron-test/issues"
+  },
+  "homepage": "https://github.com/k4iru/electron-test#readme",
+  "dependencies": {
+    "electron": "^13.1.8"
+  }
+}
